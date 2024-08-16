@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose Meza
 =================================================================================================================================
 
-Computer Systems Engineering Student
+Computer Systems Engineering
 ------------------------------------
 
 * 🌍  I'm based in Valle de Santiago, Guanajuato, Mexico
 * ✉️  You can contact me at [ppmezag@gmail.com](mailto:ppmezag@gmail.com)
-* 🧠  I'm learning Cloud Computing at GCP, NodeJS
+* 🧠  I'm learning Cloud Computing and Data Science :)
 
 ### Skills
 
